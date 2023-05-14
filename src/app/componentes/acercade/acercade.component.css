@@ -1,0 +1,13 @@
+ img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;   
+}
+ p{
+    color: antiquewhite;
+ }
+ h2{
+   font-size: 40px;
+   flex: content;
+   text-align: center;
+ }
