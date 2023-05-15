@@ -6,7 +6,6 @@ import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HeaderComponent } from './componentes/header/header.component';
 import { LogoAPComponent } from './componentes/logo-ap/logo-ap.component';
-import { RedesComponent } from './componentes/redes/redes.component';
 import { BannerComponent } from './componentes/banner/banner.component';
 import { AcercadeComponent } from './componentes/acercade/acercade.component';
 import { EducacionComponent } from './componentes/educacion/educacion.component';
@@ -34,7 +33,6 @@ import { EditarSkillComponent } from './componentes/skills/editar-skill.componen
     AppComponent,
     HeaderComponent,
     LogoAPComponent,
-    RedesComponent,
     BannerComponent,
     AcercadeComponent,
     EducacionComponent,
